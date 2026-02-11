@@ -11,4 +11,5 @@ I am currently learning the basics: - What is data analysis
 -  SQL
 -  Power BI
 - Python (later)
-## Goal To become a professional data analyst and build real-world projects.
+## Goal
+-To become a professional data analyst and build real-world projects.
